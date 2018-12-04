@@ -1,4 +1,4 @@
-CXXFLAGS = -std=c++11 -g -Wall -Werror
+CXXFLAGS = -std=c++11 -g -Wall
 LXXFLAGS = -lm -lgmp -lgmpxx -lpthread
 SSL_DIR = ssl
 TESTS_DIR = tests
